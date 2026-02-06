@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SymbolSearchPersistentStateComponent">
+    <option name="entries">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770398442298" />
+                  <option name="hash" value="-2138596178" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="Main" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java" />
+                    <option name="startLine" value="7" />
+                    <option name="endLine" value="34" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="main" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="33" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="sc" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java" />
+                    <option name="startLine" value="11" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="11" />
+                    <option name="endCharacter" value="43" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="studentService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java" />
+                    <option name="startLine" value="13" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="13" />
+                    <option name="endCharacter" value="60" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="courseService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="22" />
+                    <option name="endLine" value="14" />
+                    <option name="endCharacter" value="57" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollmentService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="26" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="69" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="choice" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/Main.java" />
+                    <option name="startLine" value="24" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770399781909" />
+                  <option name="hash" value="-1378521219" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="Course" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="40" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="id" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="5" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="5" />
+                    <option name="endCharacter" value="18" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="name" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="6" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="23" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="description" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="7" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="30" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="active" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="8" />
+                    <option name="startCharacter" value="20" />
+                    <option name="endLine" value="8" />
+                    <option name="endCharacter" value="26" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="Course" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="10" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="17" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="19" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getName" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="21" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="23" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="isActive" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="25" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="27" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="activate" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="29" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="31" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="deactivate" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="33" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="35" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getDescription" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Course.java" />
+                    <option name="startLine" value="37" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="39" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770406910317" />
+                  <option name="hash" value="1868630743" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="Enrollment" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="7" />
+                    <option name="endLine" value="50" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="id" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="9" />
+                    <option name="endCharacter" value="18" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="studentId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="10" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="10" />
+                    <option name="endCharacter" value="25" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="courseId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="11" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="11" />
+                    <option name="endCharacter" value="24" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="status" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="12" />
+                    <option name="startCharacter" value="29" />
+                    <option name="endLine" value="12" />
+                    <option name="endCharacter" value="35" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="localDate" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="13" />
+                    <option name="startCharacter" value="22" />
+                    <option name="endLine" value="13" />
+                    <option name="endCharacter" value="31" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="Enrollment" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="21" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getStudentId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="23" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="25" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="updateStatus" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="27" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="29" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="toString" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="31" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="37" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="39" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="41" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getCourseId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="43" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="45" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getStatus" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Enrollment.java" />
+                    <option name="startLine" value="47" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="49" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770399781887" />
+                  <option name="hash" value="-1517908043" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="Person" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="id" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="5" />
+                    <option name="startCharacter" value="18" />
+                    <option name="endLine" value="5" />
+                    <option name="endCharacter" value="20" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="firstName" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="6" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="30" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="lastName" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="7" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="29" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="email" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="8" />
+                    <option name="startCharacter" value="21" />
+                    <option name="endLine" value="8" />
+                    <option name="endCharacter" value="26" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="Person" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="10" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="17" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="19" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getDisplayName" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Person.java" />
+                    <option name="startLine" value="21" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="23" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770399594876" />
+                  <option name="hash" value="-287518191" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="Student" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="26" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="batch" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java" />
+                    <option name="startLine" value="5" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="5" />
+                    <option name="endCharacter" value="24" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="active" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java" />
+                    <option name="startLine" value="6" />
+                    <option name="startCharacter" value="20" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="26" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="Student" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java" />
+                    <option name="startLine" value="8" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="12" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="isActive" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="16" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="deactivate" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java" />
+                    <option name="startLine" value="18" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="20" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getDisplayName" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Student.java" />
+                    <option name="startLine" value="22" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="25" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770400329477" />
+                  <option name="hash" value="303344026" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="Trainer" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="43" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="expertise" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="5" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="5" />
+                    <option name="endCharacter" value="28" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="experienceInYears" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="6" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="33" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="active" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="7" />
+                    <option name="startCharacter" value="20" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="26" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="Trainer" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="20" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getExpertise" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="22" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getExperienceInYears" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="26" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="28" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="isActive" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="30" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="32" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="deactivate" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="34" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="36" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getDisplayName" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/entity/Trainer.java" />
+                    <option name="startLine" value="38" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="42" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/enums/EnrollmentStatus.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770402349597" />
+                  <option name="hash" value="409075535" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="EnrollmentStatus" />
+                    <option name="kind" value="ENUM" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/enums/EnrollmentStatus.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/CourseNotFoundException.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770404093398" />
+                  <option name="hash" value="1675974691" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="CourseNotFoundException" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/CourseNotFoundException.java" />
+                    <option name="startLine" value="5" />
+                    <option name="endLine" value="9" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="CourseNotFoundException" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/CourseNotFoundException.java" />
+                    <option name="startLine" value="6" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="8" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/EnrollmentNotFoundException.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770404093423" />
+                  <option name="hash" value="-378181099" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="EnrollmentNotFoundException" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/EnrollmentNotFoundException.java" />
+                    <option name="startLine" value="5" />
+                    <option name="endLine" value="9" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="EnrollmentNotFoundException" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/EnrollmentNotFoundException.java" />
+                    <option name="startLine" value="6" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="8" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/EntityNotFoundException.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770403165133" />
+                  <option name="hash" value="2022714477" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="EntityNotFoundException" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/EntityNotFoundException.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="EntityNotFoundException" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/EntityNotFoundException.java" />
+                    <option name="startLine" value="4" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/LearnTrackException.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770403703833" />
+                  <option name="hash" value="1954735701" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="LearnTrackException" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/LearnTrackException.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="LearnTrackException" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/LearnTrackException.java" />
+                    <option name="startLine" value="4" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/StudentNotFoundException.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770403366591" />
+                  <option name="hash" value="768586794" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="StudentNotFoundException" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/StudentNotFoundException.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="StudentNotFoundException" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/exception/StudentNotFoundException.java" />
+                    <option name="startLine" value="4" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/CourseRepository.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770403029895" />
+                  <option name="hash" value="1226407832" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="CourseRepository" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/CourseRepository.java" />
+                    <option name="startLine" value="7" />
+                    <option name="endLine" value="25" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="courses" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/CourseRepository.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="31" />
+                    <option name="endLine" value="9" />
+                    <option name="endCharacter" value="58" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="save" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/CourseRepository.java" />
+                    <option name="startLine" value="11" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="13" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="findById" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/CourseRepository.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="20" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="findAll" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/CourseRepository.java" />
+                    <option name="startLine" value="22" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/EnrollmentRepository.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770403043234" />
+                  <option name="hash" value="129307723" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="EnrollmentRepository" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/EnrollmentRepository.java" />
+                    <option name="startLine" value="7" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollments" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/EnrollmentRepository.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="35" />
+                    <option name="endLine" value="9" />
+                    <option name="endCharacter" value="66" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="save" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/EnrollmentRepository.java" />
+                    <option name="startLine" value="11" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="13" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="findByStudentId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/EnrollmentRepository.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="23" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="result" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/EnrollmentRepository.java" />
+                    <option name="startLine" value="16" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="16" />
+                    <option name="endCharacter" value="51" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/StudentRepository.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770402593909" />
+                  <option name="hash" value="873771732" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="StudentRepository" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/StudentRepository.java" />
+                    <option name="startLine" value="7" />
+                    <option name="endLine" value="25" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="students" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/StudentRepository.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="9" />
+                    <option name="endCharacter" value="60" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="save" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/StudentRepository.java" />
+                    <option name="startLine" value="11" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="13" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="findAll" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/StudentRepository.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="17" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="findById" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/repository/StudentRepository.java" />
+                    <option name="startLine" value="19" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770404907102" />
+                  <option name="hash" value="990536574" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="CourseService" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="12" />
+                    <option name="endLine" value="43" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="repository" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="35" />
+                    <option name="endLine" value="14" />
+                    <option name="endCharacter" value="70" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="addCourse" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="16" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="23" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="course" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="17" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="20" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="findById" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="25" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="31" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="course" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="26" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="26" />
+                    <option name="endCharacter" value="47" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getAllCourses" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="33" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="35" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="activateCourse" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="36" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="38" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="deactivateCourse" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/CourseService.java" />
+                    <option name="startLine" value="40" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="42" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770406910306" />
+                  <option name="hash" value="1311508803" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="EnrollmentService" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="16" />
+                    <option name="endLine" value="75" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollmentRepository" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="18" />
+                    <option name="startCharacter" value="39" />
+                    <option name="endLine" value="18" />
+                    <option name="endCharacter" value="88" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="studentService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="19" />
+                    <option name="startCharacter" value="33" />
+                    <option name="endLine" value="19" />
+                    <option name="endCharacter" value="47" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="courseService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="20" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="20" />
+                    <option name="endCharacter" value="45" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="EnrollmentService" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="22" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="26" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollStudent" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="28" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="51" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="student" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="31" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="31" />
+                    <option name="endCharacter" value="60" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="course" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="32" />
+                    <option name="startCharacter" value="15" />
+                    <option name="endLine" value="32" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollment" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="42" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="47" />
+                    <option name="endCharacter" value="9" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getEnrollmentsByStudent" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="53" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="59" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="updateEnrollmentStatus" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="61" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="74" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollments" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/EnrollmentService.java" />
+                    <option name="startLine" value="65" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="66" />
+                    <option name="endCharacter" value="63" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770404093411" />
+                  <option name="hash" value="-519070639" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="StudentService" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="12" />
+                    <option name="endLine" value="43" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="repository" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="36" />
+                    <option name="endLine" value="14" />
+                    <option name="endCharacter" value="72" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="addStudent" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="16" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="19" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="s" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="17" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="17" />
+                    <option name="endCharacter" value="82" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="findById" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="21" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="27" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="s" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="22" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="22" />
+                    <option name="endCharacter" value="43" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getAllStudents" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="29" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="31" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="deactivateStudent" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="32" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="42" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="student" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/service/StudentService.java" />
+                    <option name="startLine" value="33" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="33" />
+                    <option name="endCharacter" value="38" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/CourseMenu.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770398848365" />
+                  <option name="hash" value="-1900072596" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="CourseMenu" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/CourseMenu.java" />
+                    <option name="startLine" value="7" />
+                    <option name="endLine" value="43" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="show" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/CourseMenu.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="42" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="choice" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/CourseMenu.java" />
+                    <option name="startLine" value="18" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="18" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="name" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/CourseMenu.java" />
+                    <option name="startLine" value="23" />
+                    <option name="startCharacter" value="27" />
+                    <option name="endLine" value="23" />
+                    <option name="endCharacter" value="47" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="desc" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/CourseMenu.java" />
+                    <option name="startLine" value="25" />
+                    <option name="startCharacter" value="27" />
+                    <option name="endLine" value="25" />
+                    <option name="endCharacter" value="47" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/EnrollmentMenu.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770405849781" />
+                  <option name="hash" value="-870568758" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="EnrollmentMenu" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/EnrollmentMenu.java" />
+                    <option name="startLine" value="11" />
+                    <option name="endLine" value="64" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="show" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/EnrollmentMenu.java" />
+                    <option name="startLine" value="13" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="63" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="choice" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/EnrollmentMenu.java" />
+                    <option name="startLine" value="27" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="27" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="sid" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/EnrollmentMenu.java" />
+                    <option name="startLine" value="32" />
+                    <option name="startCharacter" value="24" />
+                    <option name="endLine" value="32" />
+                    <option name="endCharacter" value="61" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="cid" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/EnrollmentMenu.java" />
+                    <option name="startLine" value="34" />
+                    <option name="startCharacter" value="24" />
+                    <option name="endLine" value="34" />
+                    <option name="endCharacter" value="61" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770405849641" />
+                  <option name="hash" value="1158861027" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="Main" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java" />
+                    <option name="startLine" value="10" />
+                    <option name="endLine" value="37" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="main" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java" />
+                    <option name="startLine" value="12" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="36" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="sc" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="14" />
+                    <option name="endCharacter" value="43" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="studentService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java" />
+                    <option name="startLine" value="16" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="16" />
+                    <option name="endCharacter" value="60" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="courseService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java" />
+                    <option name="startLine" value="17" />
+                    <option name="startCharacter" value="22" />
+                    <option name="endLine" value="17" />
+                    <option name="endCharacter" value="57" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollmentService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java" />
+                    <option name="startLine" value="18" />
+                    <option name="startCharacter" value="26" />
+                    <option name="endLine" value="18" />
+                    <option name="endCharacter" value="97" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="choice" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/Main.java" />
+                    <option name="startLine" value="27" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="27" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770408213512" />
+                  <option name="hash" value="-40301325" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="StudentMenu" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java" />
+                    <option name="startLine" value="8" />
+                    <option name="endLine" value="52" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="show" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java" />
+                    <option name="startLine" value="10" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="51" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="choice" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java" />
+                    <option name="startLine" value="19" />
+                    <option name="startCharacter" value="16" />
+                    <option name="endLine" value="19" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="fn" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java" />
+                    <option name="startLine" value="24" />
+                    <option name="startCharacter" value="27" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="45" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="ln" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java" />
+                    <option name="startLine" value="26" />
+                    <option name="startCharacter" value="27" />
+                    <option name="endLine" value="26" />
+                    <option name="endCharacter" value="45" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="email" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java" />
+                    <option name="startLine" value="28" />
+                    <option name="startCharacter" value="27" />
+                    <option name="endLine" value="28" />
+                    <option name="endCharacter" value="48" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="batch" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/ui/StudentMenu.java" />
+                    <option name="startLine" value="30" />
+                    <option name="startCharacter" value="27" />
+                    <option name="endLine" value="30" />
+                    <option name="endCharacter" value="48" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/AppConstants.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770402381526" />
+                  <option name="hash" value="-733081989" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="AppConstants" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/AppConstants.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="10" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="AppConstants" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/AppConstants.java" />
+                    <option name="startLine" value="5" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="5" />
+                    <option name="endCharacter" value="29" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="STUDENT_NOT_FOUND" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/AppConstants.java" />
+                    <option name="startLine" value="7" />
+                    <option name="startCharacter" value="31" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="80" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="COURSE_NOT_FOUND" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/AppConstants.java" />
+                    <option name="startLine" value="8" />
+                    <option name="startCharacter" value="31" />
+                    <option name="endLine" value="8" />
+                    <option name="endCharacter" value="78" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="ENROLLMENT_NOT_FOUND" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/AppConstants.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="31" />
+                    <option name="endLine" value="9" />
+                    <option name="endCharacter" value="76" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1770405849746" />
+                  <option name="hash" value="740683858" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="IdGenerator" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="3" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="studentId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="5" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="5" />
+                    <option name="endCharacter" value="36" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="courseId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="6" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="6" />
+                    <option name="endCharacter" value="35" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="enrollmentId" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="7" />
+                    <option name="startCharacter" value="23" />
+                    <option name="endLine" value="7" />
+                    <option name="endCharacter" value="39" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="IdGenerator" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="9" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="11" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="nextStudentId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="13" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="nextCourseId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="17" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="19" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="nextEnrollmentId" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/src/main/java/com/airtribe/learntrack/util/IdGenerator.java" />
+                    <option name="startLine" value="21" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="23" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
